@@ -1,4 +1,5 @@
 {
+
   "name": "taskcounter",
   "version": "1.0.0",
   "scripts": {
@@ -13,6 +14,6 @@
   },
   "devDependencies": {
     "vite": "^5.0.0",
-    "@vitejs/plugin-react": "^3.2.0"
-  }
-}
+
+      "@vitejs/plugin-react": "^5.0.1"
+    
